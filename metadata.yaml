@@ -1,0 +1,37 @@
+_repo: History-of-Linn-County-IowaFrom-Its-Earliest-Settlement-to-the-Present-Time--1911-_42220
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42220-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Wick, Barthinius L. (Barthinius Larson)
+    alias: Wick, B. L. (Barthinius Larson)
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '41581'
+    url: http://www.gutenberg.org/2009/agents/41581
+  - agent_name: Brewer, Luther Albertus
+    alias: Brewer, Luther A.
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '36189'
+    url: http://www.gutenberg.org/2009/agents/36189
+description: ''
+gutenberg_issued: '2013-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42220'
+  lccn: '11010358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Linn County (Iowa) -- Biography'
+- !lcsh 'Registers of births, etc. -- Iowa -- Linn County'
+- !lcsh 'Linn County (Iowa) -- History'
+- !lcc 'F590.3'
+title: "History of Linn County Iowa\r\nFrom Its Earliest Settlement to the Present\
+  \ Time [1911]"
+url: http://www.gutenberg.org/ebooks/42220
