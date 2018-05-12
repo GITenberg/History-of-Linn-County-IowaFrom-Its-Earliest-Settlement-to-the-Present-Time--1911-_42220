@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '36189'
     url: http://www.gutenberg.org/2009/agents/36189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42220#History-of-Linn-County-IowaFrom-Its-Earliest-Settlement-to-the-Present-Time--1911-
 gutenberg_issued: '2013-02-27'
 gutenberg_type: Text
 identifiers:
